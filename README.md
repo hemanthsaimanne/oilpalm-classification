@@ -1,2 +1,0 @@
-# Oil Palm Ripeness 
-# Classification
